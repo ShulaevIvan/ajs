@@ -74,6 +74,9 @@ typings/
 # nuxt.js build output
 .nuxt
 
+# # vuepress build output
+# .vuepress/dist
+
 # Serverless directories
 .serverless/
 
@@ -82,3 +85,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# # vuepress build output
+# .vuepress/dist
